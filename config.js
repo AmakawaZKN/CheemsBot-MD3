@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['ur number'] //ur owner number
-global.ownername = "ur name"
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['628979440862''6287881508547] //ur owner number
+global.ownername = "ZyKuan-Kun"
+global.ytname = "No youtube" //ur yt chanel name
+global.socialm = "https://github.com/AmakawaZKN" //ur github or insta name
+global.location = "Japan, Tokyo, Akihabara" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
+global.botname = "Jikuan" //ur bot name
+global.websitex = "https://github.com/AmakawaZKN" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.packname = "JikuanBOT "
+global.author = "Zykuan|wa.me/6282133532380"
 global.themeemoji = "🐶"
-global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
+global.reactmoji = "🗿"
+global.ownertag = ['628979440862'] //ur owner tag
+global.ownernummenu = ['68979440862''6287881508547'] //ur owner number in menu and all
+global.watermark = "Jiikuan" //ur watermark
 global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.linkz1 = "https://chat.whatsapp.com/E1Fk1nFmAwT8VMNk4WJ1lx"
+global.linkz2 = "https://chat.whatsapp.com/E1Fk1nFmAwT8VMNk4WJ1lx"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -94,7 +94,7 @@ global.sessionName = "session"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: 'Done✓',
+    success: 'Done by Jikuan',
     admin: 'This feature is only for admins!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This feature is only for owner',
@@ -110,7 +110,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 2,
+    free: 35,
     monayawal: 1000
 }
    global.rpg = {
@@ -123,7 +123,7 @@ global.limitawal = {
 }
 global.limitawal = {
     rakyat: "Infinity",
-    free: 100
+    free: 35
 }
 // api website by xenz
 global.APIs = {
