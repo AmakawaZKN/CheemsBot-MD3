@@ -56,7 +56,7 @@ global.author = "Zykuan|wa.me/6282133532380"
 global.themeemoji = "🐶"
 global.reactmoji = "🗿"
 global.ownertag = ['628979440862'] //ur owner tag
-global.ownernummenu = ['68979440862''6287881508547'] //ur owner number in menu and all
+global.ownernummenu = ['68979440862'] //ur owner number in menu and all
 global.watermark = "Jiikuan" //ur watermark
 global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
 global.linkz1 = "https://chat.whatsapp.com/E1Fk1nFmAwT8VMNk4WJ1lx"
@@ -94,19 +94,19 @@ global.sessionName = "session"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: 'Done by Jikuan',
+    success: 'Done Onii-chan/Onee-chan ><',
     admin: 'This feature is only for admins!',
     botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This feature is only for owner',
+    owner: 'This feature is only for Zykuan-Kun >//<',
     group: 'This feature is only for groups!',
     private: 'This feature is only for private chats!',
     bot: 'This feature is only for bot',
     wait: 'In process...',
     linkm: 'Where is the link?',
-    error: 'Error!',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
+    error: 'Error! :(',
+    ban: 'You have been banned by Zykuan-Kun, if you want to be unbanned, chat Zykuan-Kun.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    banChat: 'The bot was banned in this group, please contact the Zykuan-Kun to unban'
 }
 global.limitawal = {
     premium: "Infinity",
