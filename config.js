@@ -56,11 +56,11 @@ global.author = "Zykuan|wa.me/6282133532380"
 global.themeemoji = "🐶"
 global.reactmoji = "🗿"
 global.ownertag = ['628979440862'] //ur owner tag
-global.ownernummenu = ['68979440862'] //ur owner number in menu and all
+global.ownernummenu = ['628979440862'] //ur owner number in menu and all
 global.watermark = "Jiikuan" //ur watermark
 global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/E1Fk1nFmAwT8VMNk4WJ1lx"
-global.linkz2 = "https://chat.whatsapp.com/E1Fk1nFmAwT8VMNk4WJ1lx"
+global.linkz1 = "https://chat.whatsapp.com/Cn0FA9WPXM51niSXQFAnSv"
+global.linkz2 = "https://chat.whatsapp.com/Cn0FA9WPXM51niSXQFAnSv"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
